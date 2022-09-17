@@ -6,7 +6,7 @@
 
     this refactor is to eaze the navigation of the webpage and condense the css.files
 
-    ![webpage_screenshot](assets/images/horiseon.png)
+  <img src="assets/images/horiseon.png" alt="Horiseon-screenshot"
 
 ## Link to application:
 https://saitek300.github.io/modern-cephalopod-tentagram/
